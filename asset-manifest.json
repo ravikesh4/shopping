@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/shopping/static/css/main.d8dcf412.chunk.css",
-    "main.js": "/shopping/static/js/main.9b9dffaf.chunk.js",
-    "main.js.map": "/shopping/static/js/main.9b9dffaf.chunk.js.map",
-    "runtime-main.js": "/shopping/static/js/runtime-main.c297dac1.js",
-    "runtime-main.js.map": "/shopping/static/js/runtime-main.c297dac1.js.map",
-    "static/js/2.f501c270.chunk.js": "/shopping/static/js/2.f501c270.chunk.js",
-    "static/js/2.f501c270.chunk.js.map": "/shopping/static/js/2.f501c270.chunk.js.map",
-    "index.html": "/shopping/index.html",
-    "precache-manifest.6957635e7c6e4129429e06182482d432.js": "/shopping/precache-manifest.6957635e7c6e4129429e06182482d432.js",
-    "service-worker.js": "/shopping/service-worker.js",
-    "static/css/main.d8dcf412.chunk.css.map": "/shopping/static/css/main.d8dcf412.chunk.css.map",
-    "static/js/2.f501c270.chunk.js.LICENSE.txt": "/shopping/static/js/2.f501c270.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/shopping/static/media/header.f3726bcc.jpg"
+    "main.css": "http://ravikesh.tech/shopping/static/css/main.74f00d76.chunk.css",
+    "main.js": "http://ravikesh.tech/shopping/static/js/main.eec2c922.chunk.js",
+    "main.js.map": "http://ravikesh.tech/shopping/static/js/main.eec2c922.chunk.js.map",
+    "runtime-main.js": "http://ravikesh.tech/shopping/static/js/runtime-main.961501e9.js",
+    "runtime-main.js.map": "http://ravikesh.tech/shopping/static/js/runtime-main.961501e9.js.map",
+    "static/js/2.f501c270.chunk.js": "http://ravikesh.tech/shopping/static/js/2.f501c270.chunk.js",
+    "static/js/2.f501c270.chunk.js.map": "http://ravikesh.tech/shopping/static/js/2.f501c270.chunk.js.map",
+    "index.html": "http://ravikesh.tech/shopping/index.html",
+    "precache-manifest.c6656fe9c207849dd5d669fcacbf0932.js": "http://ravikesh.tech/shopping/precache-manifest.c6656fe9c207849dd5d669fcacbf0932.js",
+    "service-worker.js": "http://ravikesh.tech/shopping/service-worker.js",
+    "static/css/main.74f00d76.chunk.css.map": "http://ravikesh.tech/shopping/static/css/main.74f00d76.chunk.css.map",
+    "static/js/2.f501c270.chunk.js.LICENSE.txt": "http://ravikesh.tech/shopping/static/js/2.f501c270.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "http://ravikesh.tech/shopping/static/media/header.f3726bcc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c297dac1.js",
+    "static/js/runtime-main.961501e9.js",
     "static/js/2.f501c270.chunk.js",
-    "static/css/main.d8dcf412.chunk.css",
-    "static/js/main.9b9dffaf.chunk.js"
+    "static/css/main.74f00d76.chunk.css",
+    "static/js/main.eec2c922.chunk.js"
   ]
 }
