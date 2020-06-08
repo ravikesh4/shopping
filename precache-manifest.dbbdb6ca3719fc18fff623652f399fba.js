@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c35e3a28b02ca9e29140c02aa6739443",
+    "revision": "5d6d24a63b6004717294211c71578a71",
     "url": "http://ravikesh.tech/shopping/index.html"
   },
   {
-    "revision": "d5cf9ed438571e113cac",
+    "revision": "9cf86ea2a6b6309effa5",
     "url": "http://ravikesh.tech/shopping/static/css/main.74f00d76.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "http://ravikesh.tech/shopping/static/js/2.f501c270.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5cf9ed438571e113cac",
-    "url": "http://ravikesh.tech/shopping/static/js/main.01e7c94b.chunk.js"
+    "revision": "9cf86ea2a6b6309effa5",
+    "url": "http://ravikesh.tech/shopping/static/js/main.59ca22b5.chunk.js"
   },
   {
     "revision": "d03ea13c71a7767536cb",
