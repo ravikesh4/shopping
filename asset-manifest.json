@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "http://ravikesh.tech/shopping/static/css/main.74f00d76.chunk.css",
-    "main.js": "http://ravikesh.tech/shopping/static/js/main.59ca22b5.chunk.js",
-    "main.js.map": "http://ravikesh.tech/shopping/static/js/main.59ca22b5.chunk.js.map",
+    "main.js": "http://ravikesh.tech/shopping/static/js/main.8ba40599.chunk.js",
+    "main.js.map": "http://ravikesh.tech/shopping/static/js/main.8ba40599.chunk.js.map",
     "runtime-main.js": "http://ravikesh.tech/shopping/static/js/runtime-main.961501e9.js",
     "runtime-main.js.map": "http://ravikesh.tech/shopping/static/js/runtime-main.961501e9.js.map",
     "static/js/2.f501c270.chunk.js": "http://ravikesh.tech/shopping/static/js/2.f501c270.chunk.js",
     "static/js/2.f501c270.chunk.js.map": "http://ravikesh.tech/shopping/static/js/2.f501c270.chunk.js.map",
     "index.html": "http://ravikesh.tech/shopping/index.html",
-    "precache-manifest.dbbdb6ca3719fc18fff623652f399fba.js": "http://ravikesh.tech/shopping/precache-manifest.dbbdb6ca3719fc18fff623652f399fba.js",
+    "precache-manifest.3d8c4e6a81ea25c82c6e60250890446c.js": "http://ravikesh.tech/shopping/precache-manifest.3d8c4e6a81ea25c82c6e60250890446c.js",
     "service-worker.js": "http://ravikesh.tech/shopping/service-worker.js",
     "static/css/main.74f00d76.chunk.css.map": "http://ravikesh.tech/shopping/static/css/main.74f00d76.chunk.css.map",
     "static/js/2.f501c270.chunk.js.LICENSE.txt": "http://ravikesh.tech/shopping/static/js/2.f501c270.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.961501e9.js",
     "static/js/2.f501c270.chunk.js",
     "static/css/main.74f00d76.chunk.css",
-    "static/js/main.59ca22b5.chunk.js"
+    "static/js/main.8ba40599.chunk.js"
   ]
 }
